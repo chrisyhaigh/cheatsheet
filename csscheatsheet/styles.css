@@ -1,0 +1,41 @@
+body {
+    background-color: lightgreen;
+    margin-top: -0.1px;
+        
+}
+
+h1 {
+    background-color: purple;
+    line-height: 1em;
+    text-align: center;
+    font-size: 60px;
+    position: relative;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    margin: 0px;
+    margin-bottom: 50px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
+
+
+
+table, th, tr, td {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: .1em;
+    font-size: small;
+    border-style: groove;
+    border-color: black;
+    border-collapse: collapse;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    color: black;
+}
+
+th {
+    background-color: blueviolet;
+    font-weight: 800;
+    font-display: bold;
